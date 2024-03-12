@@ -1,0 +1,110 @@
+h1, h2, h3 { margin:0; padding:0; font-weight:normal; font-style:normal; }
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_597c7e48 { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:120px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_597c7e48:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_597c7e48:hover span { color:#A6BBE2; }
+#button_7cc28000 { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:120px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_7cc28000:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_7cc28000:hover span { color:#A6BBE2; }
+#button_7a879cfd { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:120px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_7a879cfd:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_7a879cfd:hover span { color:#A6BBE2; }
+#button_9e2d23b { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:120px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_9e2d23b:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_9e2d23b:hover span { color:#A6BBE2; }
+#button_6036d6 { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:120px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_6036d6:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_6036d6:hover span { color:#658E49; }
+#button_10377463 { vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:172px; height:32px; background-color:rgba(255, 255, 255, 0.047059);  }
+#button_10377463:hover { background-color:rgba(0, 0, 0, 0.047059);  }
+#button_10377463:hover span { color:#C496F2; }
+#button_283d0531 { box-sizing: border-box; vertical-align: bottom; border-radius: 16px; position:relative; display: inline-block; margin:4px 0px 0px 0px;width:172px; height:32px; background-color:#E916BA; border: 2px solid #FFFFFF;  }
+#button_283d0531:hover { background-color:#FFFFFF; border-color:#E916BA;  }
+#button_283d0531:hover span { color:#808080; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_4c93732e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:30px; background:none; box-shadow: 0px 0px 6px 0px rgba(64, 64, 64, 0.588235);  }
+#container_4c93732e_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#container_7dfca937 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:30px; max-width:1400px; background:none;  }
+#heading_5d96740 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; float:left; width:283px; background:none; border: 3px solid #808080; font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#808080; text-align:left;  }
+#heading_5d96740_padding { margin: 5px 10px 5px 10px;display: block;  }
+.textstyle3 { text-align:right; }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:10pt; font-family:'Coco Gothic'; color:#A6BBE2; font-weight:bold;  }
+.textstyle5 { font-size:10pt; font-family:'Coco Gothic'; color:#658E49; font-weight:bold;  }
+.textstyle6 { font-size:10pt; font-family:'Coco Gothic'; color:#C496F2; font-weight:bold;  }
+.textstyle7 { font-size:10pt; font-family:'Coco Gothic'; color:#FFFFFF; font-weight:bold;  }
+#container_721fbbe0 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; margin:5px 0px 0px 0px;width:100%; min-height:178px; background-color:#FFFFFF; background-image: url(rc_images/background_for_hero_new_1_1200x675.png); background-position:top left; background-size:cover; border: 2px solid #404040;  }
+#container_721fbbe0_padding { margin: 10px; display: block;  }
+#heading_5cbd2978 { vertical-align: bottom; position:relative; display: inline-block; margin:40px 0px 0px 0px;background:none; font-size:48pt; font-family:'Coco Gothic'; color:#000000; text-align:left;  }
+#container_59cea90f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:735px; background:none;  }
+#container_59cea90f_padding { margin: 10px; display: block;  }
+#container_25bcdda2 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:251px; background:none;  }
+#container_25bcdda2_padding { margin: 10px; display: block;  }
+#container_8facf5d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background:none;  }
+#container_8facf5d_padding { margin: 10px; display: block;  }
+#heading_5b13e29a { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Coco Gothic'; color:#E9AF16; text-align:left;  }
+#container_69df678f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_69df678f_padding { margin: 10px; display: block;  }
+#img_4b58d6fd { vertical-align: bottom; position:relative; display: inline-block; float:left; width:19%; background:none;  }
+#container_25b8112d { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:203px; background:none;  }
+#container_25b8112d_padding { margin: 10px; display: block;  }
+.textstyle8 { font-size:12pt; font-family:'coco gothic'; color:#000000;  }
+#container_6e42984b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:63px; background:none;  }
+#container_6e42984b_padding { margin: 10px; display: block;  }
+#heading_31fc9f08 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Coco Gothic'; color:#E9AF16; text-align:left;  }
+#container_6dbc64e9 { vertical-align: top; position:relative; display: inline-block; width:77%; min-height:213px; background:none;  }
+#container_6dbc64e9_padding { margin: 10px; display: block;  }
+#container_5e5c8731 { vertical-align: top; position:relative; display: inline-block; width:29%; min-height:193px; background:none;  }
+#container_5e5c8731_padding { margin: 10px; display: block;  }
+#img_c131272 { vertical-align: bottom; position:relative; display: inline-block; width:100%; background:none;  }
+#container_479e85b6 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:33%; min-height:180px; background:none; border: 10px solid #E0DFE0;  }
+#container_479e85b6_padding { margin: 10px; display: block;  }
+.textstyle9 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#container_20275cb0 { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:36%; min-height:180px; background:none; border: 10px solid #E0DFE0;  }
+#container_20275cb0_padding { margin: 10px; display: block;  }
+#container_76422ff5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:955px; background:none;  }
+#container_76422ff5_padding { margin: 10px; display: block;  }
+#container_d018dcd { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_d018dcd_padding { margin: 10px; display: block;  }
+#heading_5b0f625a { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:24pt; font-family:'Coco Gothic'; color:#E916BA; text-align:left; font-weight:bold;  }
+#container_4b711abb { box-sizing: border-box; vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E9AF16; background: linear-gradient(to bottom, #FFFFFF, #E9AF16); border: 0px solid #545454;  }
+#container_4b711abb_padding { margin: 10px; display: block;  }
+#heading_36a80373 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_6879060f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background:none;  }
+#container_6879060f_padding { margin: 10px; display: block;  }
+#heading_45953828 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#EEC100; text-align:left;  }
+#container_2c8227ab { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:111px; background:none;  }
+#container_2c8227ab_padding { margin: 10px; display: block;  }
+#heading_40bf1b19 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:'Coco Gothic'; color:#000000; text-align:left;  }
+#container_291acaf { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_291acaf_padding { margin: 10px; display: block;  }
+#container_5b6fb27c { box-sizing: border-box; vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E9AF16; background: linear-gradient(to bottom, #FFFFFF, #E9AF16); border: 0px solid #545454;  }
+#container_5b6fb27c_padding { margin: 10px; display: block;  }
+#heading_170d175c { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_7133bc3d { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background:none;  }
+#container_7133bc3d_padding { margin: 10px; display: block;  }
+#heading_5405cb1f { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#EEC100; text-align:left;  }
+#container_6bb1ef27 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:77px; background:none;  }
+#container_6bb1ef27_padding { margin: 10px; display: block;  }
+#heading_77b41708 { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:'Coco Gothic'; color:#000000; text-align:left;  }
+#container_4ff4b861 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; background:none;  }
+#container_4ff4b861_padding { margin: 10px; display: block;  }
+#container_3f6c2d6e { box-sizing: border-box; vertical-align: top; border-radius: 9px; position:relative; display: inline-block; width:100%; min-height:150px; background-color:#E9AF16; background: linear-gradient(to bottom, #FFFFFF, #E9AF16); border: 0px solid #545454;  }
+#container_3f6c2d6e_padding { margin: 10px; display: block;  }
+#heading_3771cb8a { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000; text-align:left;  }
+#container_4a0e9553 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:38px; background:none;  }
+#container_4a0e9553_padding { margin: 10px; display: block;  }
+#heading_1669005b { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#EEC100; text-align:left;  }
+#container_56fc7028 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:77px; background:none;  }
+#container_56fc7028_padding { margin: 10px; display: block;  }
+#heading_363ca6fd { vertical-align: bottom; position:relative; display: inline-block; background:none; font-size:18pt; font-family:'Coco Gothic'; color:#000000; text-align:left;  }
+#container_70c663b5 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:267px; background-color:#E9AF16;  }
+#container_70c663b5_padding { margin: 10px; display: block;  }
+.textstyle10 { font-size:12pt; font-family:'Coco Gothic'; color:#000000;  }
+#img_3ae7ee26 { vertical-align: bottom; position:relative; display: inline-block; margin:-90px 0px 0px 0px;width:12%; background:none;  }
